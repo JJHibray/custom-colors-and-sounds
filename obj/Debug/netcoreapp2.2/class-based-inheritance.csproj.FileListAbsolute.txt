@@ -1,0 +1,11 @@
+C:\Users\jjhib\workspace\csharp\class-based-inheritance\obj\Debug\netcoreapp2.2\class-based-inheritance.csprojAssemblyReference.cache
+C:\Users\jjhib\workspace\csharp\class-based-inheritance\obj\Debug\netcoreapp2.2\class-based-inheritance.csproj.CoreCompileInputs.cache
+C:\Users\jjhib\workspace\csharp\class-based-inheritance\obj\Debug\netcoreapp2.2\class-based-inheritance.AssemblyInfoInputs.cache
+C:\Users\jjhib\workspace\csharp\class-based-inheritance\obj\Debug\netcoreapp2.2\class-based-inheritance.AssemblyInfo.cs
+C:\Users\jjhib\workspace\csharp\class-based-inheritance\bin\Debug\netcoreapp2.2\class-based-inheritance.deps.json
+C:\Users\jjhib\workspace\csharp\class-based-inheritance\bin\Debug\netcoreapp2.2\class-based-inheritance.runtimeconfig.json
+C:\Users\jjhib\workspace\csharp\class-based-inheritance\bin\Debug\netcoreapp2.2\class-based-inheritance.runtimeconfig.dev.json
+C:\Users\jjhib\workspace\csharp\class-based-inheritance\bin\Debug\netcoreapp2.2\class-based-inheritance.dll
+C:\Users\jjhib\workspace\csharp\class-based-inheritance\bin\Debug\netcoreapp2.2\class-based-inheritance.pdb
+C:\Users\jjhib\workspace\csharp\class-based-inheritance\obj\Debug\netcoreapp2.2\class-based-inheritance.dll
+C:\Users\jjhib\workspace\csharp\class-based-inheritance\obj\Debug\netcoreapp2.2\class-based-inheritance.pdb
